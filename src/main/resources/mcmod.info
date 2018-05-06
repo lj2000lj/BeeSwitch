@@ -1,0 +1,16 @@
+[
+{
+  "modid": "BeeSwitch",
+  "name": "BeeSwitch",
+  "description": "BeeSwitch, switch server easily!",
+  "version": "1.0",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Baleine_2000"],
+  "credits": "Apisium",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
